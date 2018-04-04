@@ -19,7 +19,7 @@ class Resume extends React.Component {
         <Experience />
         <Skills />
         <Interests />
-        <Awards />
+        <Awards />          
       </div>
     );
   }
